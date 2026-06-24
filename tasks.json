@@ -1,0 +1,32 @@
+[
+  {
+    "text": "Complete Project",
+    "priority": "High",
+    "done": true,
+    "date": "03 Jun 2026"
+  },
+  {
+    "text": "Update Resume",
+    "priority": "Medium",
+    "done": false,
+    "date": "03 Jun 2026"
+  },
+  {
+    "text": "Exam Prepration",
+    "priority": "High",
+    "done": false,
+    "date": "03 Jun 2026"
+  },
+  {
+    "text": "Drink Water",
+    "priority": "Low",
+    "done": true,
+    "date": "03 Jun 2026"
+  },
+  {
+    "text": "DBMS learn",
+    "priority": "Medium",
+    "done": false,
+    "date": "03 Jun 2026"
+  }
+]
